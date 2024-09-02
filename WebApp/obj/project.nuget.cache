@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o29s8E8XSTg=",
+  "dgSpecHash": "fr2N9ZZo6ZI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\WebApp\\PurchaseApp.csproj",
+  "projectFilePath": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\PurchaseApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mariu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mariu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

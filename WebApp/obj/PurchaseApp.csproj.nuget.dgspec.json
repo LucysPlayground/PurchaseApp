@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\WebApp\\PurchaseApp.csproj": {}
+    "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\PurchaseApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\WebApp\\PurchaseApp.csproj": {
+    "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\PurchaseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\WebApp\\PurchaseApp.csproj",
+        "projectUniqueName": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\PurchaseApp.csproj",
         "projectName": "PurchaseApp",
-        "projectPath": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\WebApp\\PurchaseApp.csproj",
+        "projectPath": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\PurchaseApp.csproj",
         "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\mariu\\Documents\\Projects\\PurchaseAPP\\GitHub\\PurchaseApp_webApp\\PurchaseApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config",
